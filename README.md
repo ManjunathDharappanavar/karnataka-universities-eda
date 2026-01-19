@@ -78,7 +78,7 @@ Name: count, dtype: int64
 
 **Answer:** A pie chart provides a clear visualization of the proportional distribution of university types in Karnataka, showing that Private and Public State universities together account for 60% of all universities.
 
-![Distribution of Universities in Karnataka by Type](distribution_chart.png)
+![Distribution of Universities in Karnataka by Type](university_type_distribution.png)
 
 **Code:**
 ```python
